@@ -1,4 +1,3 @@
 #!/bin/bash
-gnome-terminal --geometry=96x46+0+0 --working-directory=/home/sewerin/kernel/psp/linux-omapl1 &#--command=".exportskernel.sh &"
-#gnome-terminal --geometry=96x30+790+0
-gnome-terminal --geometry=96x27+790+562 --working-directory=/home/sewerin/tftp &
+gnome-terminal --geometry=150x44+5+50 --working-directory=/opt/denx/linux-stable &
+gnome-terminal --geometry=96x27+790+600 --working-directory=/opt/tftp &
