@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mount temp
+Exec=/opt/xenvlumax/src/helper/mount_temp.sh
+Icon=/usr/share/icons/Humanity/devices/128/drive-harddisk.svg
+Terminal=true
+Type=Application
+Categories=System;
+StartupNotify=false

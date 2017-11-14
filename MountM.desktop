@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mount M
+Exec=/opt/xenvlumax/src/helper/mount_M.sh
+Icon=/usr/share/icons/Humanity/devices/128/drive-harddisk.svg
+Terminal=true
+Type=Application
+Categories=System;
+StartupNotify=false
