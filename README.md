@@ -2,6 +2,9 @@
 
 Was ist oder war einmal interessant?
 
+## Inhalt
+[Links](#links)
+
 ## Links <a id="links" />
 
 [Markdown Cheatcheet adam-p] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
