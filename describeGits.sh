@@ -6,8 +6,8 @@
 #Diese Informationen können dann in Yocto-Rezepten verwendet werden. 
 
 REPOS="ea143g_a200_firmware_gui ea143g_c200_firmware_gui
-       ea143g_resources syslinkcorr  w1controller ea143g_appswitcher
-       DspTransfer"
+       ea143g_resources syslinkcorr  w1controller ea143g_appswitcher"
+#       DspTransfer"
 
 stage_info()
 {
@@ -20,6 +20,9 @@ stage_info()
 	echo "SRCREV = \"`git log -1 --pretty=format:"%H"`\""
 	cd ..
     done
+    echo " "
+    echo "********** ATTENTION ***********"
+    echo "update meta-ea20 in poky folder!"
 }
 
 stage_help()
